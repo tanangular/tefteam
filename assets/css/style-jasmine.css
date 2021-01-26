@@ -6924,5 +6924,26 @@ ul.progress-info { display: flex; justify-content: space-between; }
   }
 }
 
+.bg-sky-grad {
+  background: rgb(34,40,93);
+  background: linear-gradient(180deg, rgba(34,40,93,1) 0%, rgba(9,23,75,1) 53%, rgba(13,90,166,0.6530987394957983) 100%);
+}
+
+.text-white {
+  color: #fefefe;
+}
+
+.text-prompt {
+  font-family: 'Prompt', sans-serif;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+
+.text-medium {
+  font-size: 1.25rem;
+}
+
 /* END @iO */
 /* END @iO */
